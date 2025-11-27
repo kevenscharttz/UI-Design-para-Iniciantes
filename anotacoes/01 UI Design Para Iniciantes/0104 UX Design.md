@@ -19,6 +19,12 @@ Podemos dizer que a parte de aplicação das heurísticas representariam uns 20%
 
 ### Empatia
 Pesquisa com usuários, concorrentes, especialistas e estudos que já existem sobre o assunto.
-
 ### Definir
+Definir os problemas que serão o foco do projeto.
+### Idealizar
+Definir ideias que podem solucionar o problema.
+### Prototipar
+Materializar soluções a partir das ideias definidas.
+### Testar
+Testar a solução com o usuário final e identificar melhorias.
 
